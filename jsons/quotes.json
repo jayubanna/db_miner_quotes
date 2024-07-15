@@ -1,0 +1,62 @@
+[
+  {
+    "categories": [
+      "Happiness",
+      "Friendship",
+      "Motivational",
+      "Positive",
+      "Success",
+      "Smile",
+      "Leadership"
+    ],
+    "Happiness_image": "assets/happy.jpeg",
+    "Happiness": [
+      "People wait all week for Friday, all year for summer, all life for happiness.",
+      "Most people are about as happy as they make up their minds to be.",
+      "Happiness adds and multiplies, as we divide it with others.",
+      "Happiness is a positive cash flow."
+    ],
+    "Friendship_image": "assets/friend.jpg",
+    "Friendship": [
+      "Friends are like stars, they come and go, but the ones that stay are the ones that glow!!!!",
+      "True friends are never apart. Maybe in distance, but not in heart.",
+      "Only a true best friend can protect you from your immortal enemies.",
+      "A friend is someone who gives you total freedom to be yourself."
+    ],
+    "Motivational_image": "assets/moti.jpg",
+    "Motivational": [
+      "Only a fool knows everything. A wise man knows how little he knows.",
+      "If someone else has done it, I can do it too. If no one has, then I can be the first.",
+      "What comes from the heart, goes to the heart.",
+      "Start where you are. Use what you have. Do what you can."
+    ],
+    "Positive_image": "assets/posi.jpg",
+    "Positive": [
+      "Positive thinking sees the invisible, feels the intangible, and can achieve the impossible.",
+      "The most important thing is to stay positive.",
+      "Be sure you positively identify your target before you pull the trigger.",
+      "Your positive action combined with positive thinking results in success."
+    ],
+    "Success_image": "assets/suc.webp",
+    "Success": [
+      "The negative side of the American Dream comes when people pursue success at any cost, which in turn destroys the vision and the dream.",
+      "The road to success is not easy to navigate, but with hard work, drive and passion, it's possible to achieve the American dream.",
+      "Successful people are not gifted; they just work hard, then succeed on purpose.",
+      "I am not bound to win, but i am bound to be true. I am not bound to succeed, but i am bound to live up to what light i have."
+    ],
+    "Smile_image": "assets/smile.jpg",
+    "Smile": [
+      "The prettiest smiles hides the deepest secrets. The prettiest eyes have cried the most tears, and the kindest hearts have felt the most pain",
+      "Keep the smile, leave the tension, feel the joy, forget the worry, hold the peace, leave the pain, and always be happy",
+      "The prettiest smiles hide the deepest scars. The prettiest eyes have cried the most tears and the kindest hearts have felt the most pain",
+      "Someday, everything will make perfect sense. So for now, laugh at the confusion, smile through the tears, and keep reminding yourself that everything happens for a reason"
+    ],
+    "Leadership_image": "assets/leader.jpg",
+    "Leadership": [
+      "An army of deer would be more formidable commanded by a lion, than a an army of lions commanded by a stag.",
+      "I suppose leadership at one time meant muscles; but today it means getting along with people.",
+      "Show me the leader and I will know his men. Show me the men and I will know their leader.",
+      "Leadership is an opportunity to serve. It is not a trumpet call to self-importance."
+    ]
+  }
+]
